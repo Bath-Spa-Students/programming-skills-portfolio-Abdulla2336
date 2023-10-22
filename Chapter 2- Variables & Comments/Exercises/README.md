@@ -13,7 +13,6 @@ Once you have completed your solution you should make sure you commit and push y
 Assign a message to a variable, and print that message.
 Then change the value of the variable to a new message, and print the new
 message.
-
 &nbsp;
 &nbsp;
 &nbsp;
