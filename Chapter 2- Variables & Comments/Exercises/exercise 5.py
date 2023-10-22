@@ -2,6 +2,7 @@
 #Write a programme that calculates how many USB sticks she can buy and how many pounds she will have left.
 #You will to use the arithmetic operators to complete this exercise.
 
+
 print("USB stick price $6.\nnote:girl has $50")
 quantity=int(input("how many can the girl buy:"))
 price=int(50-(quantity*6))
